@@ -1,5 +1,5 @@
 #### Датасет был предоставлен в рамках образовательного кейса
-Changellenge Education.[Changellenge education](https://changellenge-education.com/data-analyst)
+Changellenge Education  [Changellenge education](https://changellenge-education.com/data-analyst)
 
 Весь анализ, моделирование,
 интерпретация результатов и разработка дашборда выполнены самостоятельно.
@@ -197,6 +197,7 @@ Changellenge Education.[Changellenge education](https://changellenge-education.c
 Разработанная модель **XGBoost с MAPE 15.76% и R² 0.78** готова к практическому использованию для прогнозирования цен аренды квартир в массовом сегменте. Модель успешно решает поставленную задачу и может быть рекомендована для внедрения в бизнес-процессы оценки недвижимости.
 ```
  
+
 
 
 
